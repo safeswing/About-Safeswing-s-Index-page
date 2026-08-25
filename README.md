@@ -13,7 +13,9 @@ Make Your Repository
 
 Step 0: 
 Download Needed tools.
-i Recommend VS Code for this. (https://code.visualstudio.com/)
+
+- i Recommend VS Code for this. (https://code.visualstudio.com/)
+
 Step 1:
 - Put your preferred name for the repository
 - Fill out the description
