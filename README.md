@@ -11,6 +11,9 @@ about the license, you must read license.txt, it is very important.
 Make Your Repository 
 <img width="863" height="266" alt="image" src="https://github.com/user-attachments/assets/0028221a-154e-4761-949b-303d12e2ead6" />
 
+Step 0: 
+Download Needed tools.
+i Recommend VS Code for this. (https://code.visualstudio.com/)
 Step 1:
 - Put your preferred name for the repository
 - Fill out the description
@@ -36,4 +39,19 @@ Step 3:
 - then in git bash, type ``git add .``
 - After ``"git commit -m "initial commit"``
 - After typing, type ``git push``
+
+---
+Step 4: 
+
+- You are done
+- edit the index.html according to your preference 
+- Open it on your IDE, i recommend downloading VS Code for this.
+
+<img width="314" height="146" alt="image" src="https://github.com/user-attachments/assets/de7626ee-8d4c-4d94-8462-75c44f2064d1" />
+
+- Right click and choose open with vs code, or if not shown use "Open With"
+<img width="547" height="289" alt="image" src="https://github.com/user-attachments/assets/6c5edcd0-4ca9-41e8-8844-14ab17f41ceb" />
+
+
+
 
