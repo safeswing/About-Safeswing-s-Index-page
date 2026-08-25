@@ -33,9 +33,9 @@ Step 2:
 Step 3: 
 
 - Download Git Bash (https://git-scm.com/install/windows)
-- in Git bash "cd ~/Documents" or preferred location
-- clone the repository, "git clone https://github.com/yourusername/example.git" replace yourusername with your actual username and the example.git with your repository name, like "safeswing.git"
-- now, do "cd example" or whatever is the name
+- in Git bash ``cd ~/Documents`` or preferred location
+- clone the repository, ``git clone https://github.com/yourusername/example.git`` replace yourusername with your actual username and the example.git with your repository name, like "safeswing.git"
+- now, do ``cd example`` or whatever is the name
 - Download index.html from this repository 
 - Add it to your project file. 
 - then in git bash, type ``git add .``
