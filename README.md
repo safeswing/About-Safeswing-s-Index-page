@@ -82,6 +82,6 @@ Download Needed tools.
 - Right click and choose open with vs code, or if not shown use "Open With"
 <img width="547" height="289" alt="image" src="https://github.com/user-attachments/assets/6c5edcd0-4ca9-41e8-8844-14ab17f41ceb" />
 
-
+Based current version of ``8/25/2026``
 
 
