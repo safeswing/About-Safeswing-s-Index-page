@@ -16,12 +16,12 @@ Download Needed tools.
 
 - i Recommend VS Code for this. (https://code.visualstudio.com/)
 
-Step 1:
+## Step 1:
 - Put your preferred name for the repository
 - Fill out the description
 
 ---
-Step 2:
+## Step 2:
 <img width="891" height="493" alt="image" src="https://github.com/user-attachments/assets/37b6df7d-c102-4cc3-8bb2-2077264912fe" />
 
 - Make it Public, or Private.
@@ -30,7 +30,7 @@ Step 2:
 - (Optional) Add or Dont add gitignore
 
 ---
-Step 3: 
+## Step 3: 
 
 - Download Git Bash (https://git-scm.com/install/windows)
 - in Git bash ``cd ~/Documents`` or preferred location
@@ -43,7 +43,35 @@ Step 3:
 - After typing, type ``git push``
 
 ---
-Step 4: 
+## Step 3.5
+
+- Make it a live domain 
+- Go to Settings
+<img width="1195" height="109" alt="image" src="https://github.com/user-attachments/assets/968a754f-acdb-41e5-8e6b-128aff857d81" />
+
+- Choose pages
+<img width="312" height="814" alt="image" src="https://github.com/user-attachments/assets/67ba5093-d617-4c06-9fa7-9c0142d92feb" />
+
+## Step 3.6
+
+- Select Main Branch
+
+<img width="980" height="307" alt="image" src="https://github.com/user-attachments/assets/04d21fe9-b51e-418f-a4a1-d4d97800cd4f" />
+
+
+- It will take time to deploy (1-5 Minutes)
+<img width="329" height="83" alt="image" src="https://github.com/user-attachments/assets/d13ef055-d5b6-443e-b53e-5972f8e4604c" />
+
+
+## Step 3.7
+
+- After waiting it should be live. 
+- like "https://safeswing.github.io/example/" ``/example/`` is repo name and, your username ``//yourusername.github.io``
+- combined ``https://yourusername.github.io/example`` be careful it is case sensetive
+
+
+---
+## Step 4: 
 
 - You are done
 - edit the index.html according to your preference 
