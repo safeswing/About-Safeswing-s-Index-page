@@ -91,3 +91,6 @@ Section 8 – Interpretation.
     To the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.
     No term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.
     Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.
+
+
+(Note from me) further more if you want more flexible license, you can buy the paid version. which only is 5$ and offers very flexible license. however i am warning you that i will release a new major version, unrelated to this and it could have a flexible license, but its upto you if you want to wait (which is 10-15 years)
